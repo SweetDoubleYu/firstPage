@@ -1,0 +1,116 @@
+.header	 {   background-image:
+        url(http://elitefon.ru/images/201211/elitefon.ru_1604.jpg);
+    background-size: cover;
+    height: 60px;
+    padding: 15px 100px;
+}
+
+#icon1, #text1 {max-height: 30px;
+    display: inline-block;
+}
+
+#text1 {font: italic 25px arial ;
+    color: #9B9999;}
+
+.btmHeader {
+    background-color: #4bbaff;
+    height: 40px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.btmHeader div {
+    display:inline-block;
+    margin-left: 15px;
+    height: 34px;
+    padding: 2px;
+}
+
+.btmHeader a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.btmHeader #linkGroup1 {
+      margin-left: 700px;
+  }
+
+.btmHeader #srchField {
+    position: relative;
+    height: 32px;
+    width: 230px;
+    background-color: white;
+    border-radius: 3px;
+    margin-top: 3px;
+}
+
+.btmHeader input[type="submit"] {
+   width: 20px;
+   height: 20px;
+    border: none;
+    outline: none;
+    background: url(search.png);
+    background-size: contain;
+    position: absolute;
+    top: 8px;
+    left: 5px;
+}
+
+.btmHeader input[type="search"] {
+    border: none;
+    outline: none;
+    -webkit-appearance: none;
+    width: 200px;
+    margin-left: 30px;
+    margin-top: 7px;
+
+}
+
+.btmHeader input[type="submit"]:hover {
+    cursor: pointer;
+}
+
+select {
+    border: none;
+    outline: none;
+    background-color: #4bbaff;
+    color: white;
+}
+.navigation {
+    margin-left: -5px;
+    padding: 3px 8px;
+}
+
+.navigationList {
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.navigation:hover {
+    background-color:#9B9999;
+    cursor: pointer;
+}
+
+.scroll1 {
+    width: 30%;
+    margin-top: 10px;
+}
+
+.scrollImg, .description {
+    height: 70px;
+    display: inline-block;
+}
+
+
+.scroll1element {
+    border: 2px #9B9999 solid;
+}
+
+
+
+
+
+
+
+
